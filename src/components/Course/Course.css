@@ -1,0 +1,10 @@
+
+.myCard{
+    display: flex;
+    max-width: 600px;
+    justify-content: center;
+    margin:10px;
+    margin-left:400px ;
+    
+
+}
